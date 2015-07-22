@@ -1,0 +1,23 @@
+git commands
+which git
+git --version
+setup git
+git config --global user.name "patrick"
+git config --global user.email "patrick"
+ cat .gitconfig
+
+git config --global core.editor "notepad++.exe -wl1"
+git config --global color.ui true
+cat .gitconfig
+
+create file and upload
+1. set user details as seen in lyndavideo
+2. cd select file
+3.git init to initialize
+4.ls la to see .git file
+4.5 add documents
+5.git add .
+6. git commit -m "inital commit"
+7. git repository URL here
+8. git push origin master.
+9. enter details
